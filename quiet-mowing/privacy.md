@@ -2,6 +2,8 @@
 
 Android-игра «Тихий покос» / Quiet Mowing. Дата редакции: 16 ноября 2026 года.
 
+English version: [privacy-en.html](privacy-en.html).
+
 ## 1. Разработчик
 
 Яковец Евгений Викторович, физическое лицо, Беларусь. Вопросы о данных и поддержка: [yakavets.yauheni@gmail.com](mailto:yakavets.yauheni@gmail.com).
