@@ -28,7 +28,7 @@ Yandex describes its processing and retention in the [Yandex privacy policy](htt
 
 Advertising components: Yandex Mobile Ads SDK loads, displays, and records optional rewarded ads; AppMetrica provides the service components required by that advertising SDK. Yandex receives technical advertising data. The developer has not added separate gameplay analytics. The advertising SDK transmits data over HTTPS/TLS. Local game data stays on the device; the provider processes and retains technical data under its own policy, including in countries other than the player’s country.
 
-The game does not offer personalized advertising, does not grant consent for it, and does not create its own player profiles for automated decisions. Declining to watch an ad does not prevent normal play. The game has no separate switch to stop technical communication by an already initialized SDK; to stop that communication, you can close the game or restrict its network access using device controls. The developer does not sell players’ personal data.
+The game does not offer personalized advertising, does not grant consent for it, and does not create its own player profiles for automated decisions. Declining to watch an ad does not prevent normal play. The game has no separate switch to stop technical communication by an already initialized SDK; to stop that communication, you can force-stop the app in Android settings, uninstall it, or restrict its network access using device controls. The developer does not sell players’ personal data.
 
 ## 4. Children
 
