@@ -3,6 +3,7 @@
 Публичные документы игр Яковца Евгения Викторовича.
 
 - [Тихая уборка — политика конфиденциальности](https://jekson0702.github.io/game-policies/quiet-cleaning/privacy.html)
+- [Quiet Cleaning — privacy policy](https://jekson0702.github.io/game-policies/quiet-cleaning/privacy-en.html)
 - [Тихий покос — политика конфиденциальности](https://jekson0702.github.io/game-policies/quiet-mowing/privacy.html)
 - [Quiet Mowing — privacy policy](https://jekson0702.github.io/game-policies/quiet-mowing/privacy-en.html)
 
