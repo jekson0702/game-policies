@@ -7,4 +7,7 @@
 - [Тихий покос — политика конфиденциальности](https://jekson0702.github.io/game-policies/quiet-mowing/privacy.html)
 - [Quiet Mowing — privacy policy](https://jekson0702.github.io/game-policies/quiet-mowing/privacy-en.html)
 
-Исходные документы: `quiet-cleaning/privacy.md` и `quiet-mowing/privacy.md`. HTML-страницы лежат рядом с ними. Код игр здесь не размещается.
+- [Тихий полив — политика конфиденциальности](https://jekson0702.github.io/game-policies/quiet-watering/privacy.html)
+- [Quiet Watering — privacy policy](https://jekson0702.github.io/game-policies/quiet-watering/privacy-en.html)
+
+Исходные документы: `quiet-cleaning/privacy.md` `quiet-mowing/privacy.md` и `quiet-watering/privacy.md`. HTML-страницы лежат рядом с ними. Код игр здесь не размещается.
